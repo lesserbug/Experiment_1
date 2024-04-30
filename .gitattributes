@@ -1,0 +1,4 @@
+beacon-chain filter=lfs diff=lfs merge=lfs -text
+validator filter=lfs diff=lfs merge=lfs -text
+geth filter=lfs diff=lfs merge=lfs -text
+prysmctl filter=lfs diff=lfs merge=lfs -text
